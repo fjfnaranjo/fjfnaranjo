@@ -1,2 +1,0 @@
-pelican~=4.0
-Markdown~=3.0
