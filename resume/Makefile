@@ -15,12 +15,12 @@ clean:
 	@rm -f $(HTML) $(PDF) $(DOCX)
 
 %.html: %.md
-	@$(PODMAN_PANDOC) --standalone --include-in-header chmduquesne.css \
-		--lua-filter=pdc-links-target-blank.lua --from markdown --to html \
+	@$(PODMAN_PANDOC) --include-in-header html.inc \
+		--lua-filter=pdc-links-target-blank.lua \
 		--metadata pagetitle=$(basename $@) --output $@ $<
 
 %.pdf: %.html
 	@$(PODMAN_WEASYPRINT) $< $@
 
 %.docx: %.md
-	@$(PODMAN_PANDOC) --standalone -f markdown+smart --output $@ $<
+	@$(PODMAN_PANDOC) --from markdown+smart --output $@ $<

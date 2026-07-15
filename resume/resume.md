@@ -1,13 +1,10 @@
 # Naranjo
 
-> Francisco José Fernández Naranjo
->
-> Platform engineer / DevOps
->
-> Bilbao, Spain
->
-> AWS, GCP, Terraform, Ansible, Containers,
-> ArgoCD, Prometheus (Thanos), OpenTelemetry.
+* Francisco José Fernández Naranjo
+* Platform engineer / DevOps
+* Bilbao, Spain
+* AWS, GCP, Terraform, Ansible, Containers, ArgoCD, Prometheus (Thanos),
+  OpenTelemetry.
 
 ## Summary
 
@@ -36,7 +33,7 @@ Some of my career highlights include:
 
 ## Career highlights
 
-**Revolut**
+### Revolut
 
 DevOps/Platform Engineer
 
@@ -59,7 +56,9 @@ Jul 2023 - Aug 2025 2 yrs 2 mos
   documentation, and best practices for platform usage and service
   reliability.
 
-**Wave Location Technologies**
+---
+
+### Wave Location Technologies
 
 Backend/DevOps Engineer
 
@@ -83,7 +82,9 @@ Jul 2019 - Jun 2021 · 2 yrs
   applications, combining OpenStreetMap datasets with criminality data
   to produce weighted safe-route recommendations.
 
-**Fever Labs Inc.**
+---
+
+### Fever Labs Inc.
 
 Backend/DevOps Lead
 
@@ -96,7 +97,9 @@ Apr 2018 - Jul 2019 · 1 yr 4 mos
   standardize processes and knowledge transfer after departure of
   previous DevOps personnel.
 
-**Fever Labs Inc.**
+---
+
+### Fever Labs Inc.
 
 Backend/DevOps Engineer
 
@@ -111,7 +114,9 @@ Apr 2017 - Mar 2018 · 1 yr
 - Implemented observability and error tracking using Sentry to ensure
   application reliability and rapid incident resolution.
 
-**upclose**
+---
+
+### upclose
 
 Backend/DevOps Engineer
 
@@ -123,7 +128,9 @@ Apr 2016 - Apr 2017 · 1 yr 1 mo
   PostgreSQL, including maintaining a private Alpine-based package
   registry for maximum AWS instance efficiency and extreme low-cost.
 
-**Web Financial Group S.A.**
+---
+
+### Web Financial Group S.A.
 
 Analyst/Programmer
 
