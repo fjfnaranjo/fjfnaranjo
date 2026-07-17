@@ -23,7 +23,13 @@ jobs:
         uses: actions/checkout@v4
       - name: Build Resume
         working-directory: resume
-        run: make resume.pdf && mv resume.pdf ../webroot/
+        run: |
+          make resume.html resume.pdf resume-brief.pdf resume.docx
+          mkdir -p ../webroot/cv
+          mv resume.html ../webroot/cv/index.html
+          mv resume.pdf ../webroot/cv/fjfnaranjo-resume.pdf
+          mv resume-brief.pdf ../webroot/cv/fjfnaranjo-resume-brief.pdf
+          mv resume.docx ../webroot/cv/fjfnaranjo-resume.docx
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

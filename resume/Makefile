@@ -17,7 +17,7 @@ clean:
 %.html: %.md
 	@$(PODMAN_PANDOC) --include-in-header html.inc \
 		--lua-filter=pdc-links-target-blank.lua \
-		--metadata pagetitle=$(basename $@) --output $@ $<
+		--metadata pagetitle="fjfnaranjo's resume" --output $@ $<
 
 %.pdf: %.html
 	@$(PODMAN_WEASYPRINT) $< $@

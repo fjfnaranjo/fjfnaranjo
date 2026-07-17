@@ -5,39 +5,21 @@
 * Spain / fjfnaranjo@gmail.com / (+34) 615404901
 * AWS, GCP, Terraform, Ansible, Containers, ArgoCD, Prometheus (Thanos),
   OpenTelemetry.
+* [Web version](https://fjfnaranjo.com/cv/) | [Full PDF](https://fjfnaranjo.com/cv/fjfnaranjo-resume.pdf)
 
 ## Summary
 
-I have built my career around designing and operating web platforms,
-with a strong focus on infrastructure, automation, reliability, and
-scalability of production environments.
+I design, deploy, and monitor complex Cloud infrastructure automations
+and reliability controls. I control and deploy software and help
+everyone on the team focus on their core competencies.
 
-My experience includes system administration, automation, and managing
-distributed services and platforms on AWS and GCP. I have designed and
-maintained CI/CD pipelines, implemented observability and monitoring
-solutions, and prioritized security and operational best practices.
-
-I favor lightweight, iterative approaches to software development that
-emphasize clear objectives, feedback, and continuous improvement, while
-avoiding unnecessary process overhead.
-
-For implementation and automation, I primarily work with Python,
-leveraging experience gained from building backend systems as well as
-developing operational tooling, supported by shell scripting for
-system-level tasks.
-
-I've worked on many projects across the last 20 years. I'm comfortable
-working both as a consultant and in permanent positions.
-
-Some of my career highlights include:
+My key focus is not in what I add, but what I multiply.
 
 ## Career highlights
 
 ### Revolut
 
-DevOps/Platform Engineer
-
-Jul 2023 - Aug 2025 2 yrs 2 mos
+DevOps/Platform Engineer (2023 - 2025)
 
 - Managed a global infrastructure with complex and diverse components,
   ensuring high availability, scalability, and operational reliability.
@@ -59,9 +41,7 @@ Jul 2023 - Aug 2025 2 yrs 2 mos
 
 ### Wave Location Technologies
 
-Backend/DevOps Engineer
-
-Jul 2019 - Jun 2021 · 2 yrs
+Backend/DevOps Engineer (2019 - 2021)
 
 - Developed and maintained server-side infrastructure for multiple
   geolocation-based mobile applications, each with distinct business
@@ -85,9 +65,7 @@ Jul 2019 - Jun 2021 · 2 yrs
 
 ### Fever Labs Inc.
 
-Backend/DevOps Lead
-
-Apr 2018 - Jul 2019 · 1 yr 4 mos
+Backend/DevOps Lead (2018 - 2019)
 
 - Led backend and platform operations initiatives, supporting
   deployment, monitoring, and automation tasks while ensuring smooth
@@ -100,9 +78,7 @@ Apr 2018 - Jul 2019 · 1 yr 4 mos
 
 ### Fever Labs Inc.
 
-Backend/DevOps Engineer
-
-Apr 2017 - Mar 2018 · 1 yr
+Backend/DevOps Engineer (2017 - 2018)
 
 - Developed and maintained backend services using Django REST Framework
   to support mobile and web applications focused on city activities and
@@ -117,9 +93,7 @@ Apr 2017 - Mar 2018 · 1 yr
 
 ### upclose
 
-Backend/DevOps Engineer
-
-Apr 2016 - Apr 2017 · 1 yr 1 mo
+Backend/DevOps Engineer (2016 - 2017)
 
 - Developed and maintained a custom Python backend using Pyramid to
   support early live-streaming applications.
@@ -131,9 +105,7 @@ Apr 2016 - Apr 2017 · 1 yr 1 mo
 
 ### Web Financial Group S.A.
 
-Analyst/Programmer
-
-Apr 2008 - Jun 2010 · 2 yrs 3 mos
+Analyst/Programmer (2008 - 2010)
 
 - Designed, developed and maintained a structural data interchange
   platform focused on European market monetary operations and
